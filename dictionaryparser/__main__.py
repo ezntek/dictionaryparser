@@ -32,7 +32,7 @@ def main():
     with open(fname, "r+") as file:
         content = file.read()
 
-    d = dp.Parser(content).parse_to_json()
+    d = dp.Parser(content).parse_to_json(compact=False)
     print(d)
 
 

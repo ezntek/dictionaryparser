@@ -65,7 +65,6 @@ def die(*args, **kwargs) -> NoReturn:
 @dataclass
 class Definition:
     # definitions that are alternate forms of a previous definition have this set to true
-    is_alternate_form: bool
     word: str
 
     # pos -> part of speech
@@ -73,16 +72,17 @@ class Definition:
     word_class: Literal["i", "ii", "iii", "na"]  # na → not applicable
     definition: str
     notes: list[str]
+    is_alternate_form: bool
     alternate_forms: list["Definition"]
 
     def to_dict(self) -> dict:
         return {
-            "is_alternate_form": self.is_alternate_form,
             "word": self.word,
             "pos": self.pos,
             "word_class": self.word_class,
             "definition": self.definition,
             "notes": self.notes,
+            "is_alternate_form": self.is_alternate_form,
             "alternate_forms": [aform.to_dict() for aform in self.alternate_forms]
         }
 
@@ -131,6 +131,8 @@ class Parser:
         return Definition(word=term, pos=pos, word_class=wclass, definition=definition, is_alternate_form=is_alt_form, notes=[], alternate_forms=[])  # type: ignore
 
     def parse(self) -> list[Definition]:
+        """Parses the whole dictionary into a `list[Definition]`."""
+
         res: list[Definition] = []
         while len(self.lines) != 0:
             line = self.lines.popleft()
@@ -162,11 +164,22 @@ class Parser:
         return res
 
     def parse_to_dict(self) -> dict:
+        """Parses the whole dictionary into a `dict`."""
+
         res = self.parse()
         d = {
             "items": [itm.to_dict() for itm in res] 
         }
         return d
 
-    def parse_to_json(self) -> str:
-        return json.dumps(self.parse_to_dict())
+    def parse_to_json(self, compact=True) -> str:
+        """
+        Parses the whole dictionary into a `json`. set `compact=False` to
+        generate prettier output.
+        """
+
+        dic = self.parse_to_dict()
+        if compact:
+            return json.dumps(dic)
+        else:
+            return json.dumps(dic, indent=4, sort_keys=False)
