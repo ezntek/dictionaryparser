@@ -57,14 +57,13 @@ PartOfSpeech = Literal[
 ]
 
 
-def die(*args, **kwargs) -> NoReturn:
+def _die(*args, **kwargs) -> NoReturn:
     print(file=sys.stderr, *args, **kwargs)
     exit(1)
 
 
 @dataclass
 class Definition:
-    # definitions that are alternate forms of a previous definition have this set to true
     word: str
 
     # pos -> part of speech
@@ -72,8 +71,9 @@ class Definition:
     word_class: Literal["i", "ii", "iii", "na"]  # na → not applicable
     definition: str
     notes: list[str]
-    is_alternate_form: bool
-    alternate_forms: list["Definition"]
+    is_derived_term: bool
+    parent: str
+    irregular_inflections: list[str]
 
     def to_dict(self) -> dict:
         return {
@@ -82,11 +82,17 @@ class Definition:
             "word_class": self.word_class,
             "definition": self.definition,
             "notes": self.notes,
-            "is_alternate_form": self.is_alternate_form,
-            "alternate_forms": [aform.to_dict() for aform in self.alternate_forms]
+            "is_derived_term": self.is_derived_term,
+            "parent": self.parent,
+            "irregular_inflections": self.irregular_inflections
         }
 
+    @staticmethod 
+    def from_dict(d: dict) -> "Definition":
+        return Definition(d["word"], d["pos"], d["word_class"], d["definition"], d["notes"], d["is_derived_term"], d["parent"], d["irregular_inflections"])
+
 Note = str
+Inflection = str
 class Parser:
     lines: deque[str]
     len: int
@@ -95,7 +101,7 @@ class Parser:
         self.lines = deque(file.split("\n"))
         self.len = len(file)
 
-    def next_line(self, line: str) -> Definition | Note:
+    def next_line(self, line: str) -> Definition | Note | list[Inflection]:
         """Gets the next line in the dictionary, i.e. 1 word-definition pair."""
 
         is_alt_form = line[0] in [" ", "\t"]
@@ -106,13 +112,19 @@ class Parser:
             lhs, rhs = line.split(" // ", maxsplit=1)
         except ValueError:
             line = line.strip()
-            return line
+            
+            if "inflections: " in line:
+                inflections_s = line[len("inflections: "):]
+                inflections = inflections_s.split(", ")
+                return inflections
+            else:
+                return Note(line)
 
         try:
             lhs = lhs.strip().split(" ")
             term, *rem = lhs
         except ValueError:
-            die(f"could not split LHS: {lhs}")
+            _die(f"could not split LHS: {lhs}")
 
         definition = rhs
         pos = ""
@@ -126,9 +138,9 @@ class Parser:
         try:
             pos = POS_TABLE[pos]
         except KeyError:
-            die(f"cannot find POS in table: {line}")
+            _die(f"cannot find POS in table: {line}")
 
-        return Definition(word=term, pos=pos, word_class=wclass, definition=definition, is_alternate_form=is_alt_form, notes=[], alternate_forms=[])  # type: ignore
+        return Definition(word=term, pos=pos, word_class=wclass, definition=definition, is_derived_term=is_alt_form, notes=[], parent=str(), irregular_inflections=[])  # type: ignore
 
     def parse(self) -> list[Definition]:
         """Parses the whole dictionary into a `list[Definition]`."""
@@ -154,10 +166,16 @@ class Parser:
                 res[len(res) - 1] = prev
             elif (
                 isinstance(next_line, Definition)
-                and next_line.is_alternate_form == True
+                and next_line.is_derived_term == True
             ):
                 prev = res[len(res) - 1]
-                prev.alternate_forms.append(next_line)
+                next_line.parent = prev.word
+                res.append(next_line)
+            elif (
+                isinstance(next_line, list)
+            ):
+                prev = res[len(res) - 1]
+                prev.irregular_inflections = next_line
                 res[len(res) - 1] = prev
             else:
                 res.append(next_line)

@@ -2,7 +2,7 @@ Aa
 a- hon. // prefix to demonstrate respect to a noun or verb;  archaic definite article used as an honorific.
 ac num. // (alt. aci) six.
 adaya pron. // we, first person inclusive plural pronoun.
-inflections: adé (accusative), adayan (ablative), adiya (lative), udáya (genitive). plural pronoun, neutral respect level.
+        inflections: adé (accusative), adayan (ablative), adiya (lative), udáya (genitive). plural pronoun, neutral respect level.
 agari stv. // to be restricted, to be tied down
 agarui stv. // negative, to be free.
 agaruim stv. // negative causative, to liberate.
@@ -57,7 +57,7 @@ askin n. iii. // fat, blubber.
 atari v. // to adorn on one’s head, to wear upon one’s head.
 atassyat n. iii. // train.
 atua pron. // we, first person exclusive plural pronoun.
-inflections: atté (accusative), atuan (ablative), atica (lative), utsu (genitive). 
+        inflections: atté (accusative), atuan (ablative), atica (lative), utsu (genitive). 
 atoi v. // to wake up.
 avi n. i. // female.
 awe num. // seven.
@@ -812,7 +812,7 @@ teqa n. iii. // hardness (of a material)
 teqán n. iii. // harshness, related to teqa (hard). possibly from teqa-ni.
 teza n. iii. // bowl.
 to pron. // he, she, gender-neutral third person singular pronoun.
-inflections: tue (accusative), to’án(ablative), torya (lative), uto/tuyá (genitive).
+        inflections: tue (accusative), to’án (ablative), torya (lative), uto/tuyá (genitive).
 tobé v. // to group, to come together, to assemble.
 tobéze v. // to work together, collaborate.
 toj v. // to keep, maintain, uphold.
