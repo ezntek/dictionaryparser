@@ -9,7 +9,7 @@
 #
 
 import json
-from typing import Literal, NoReturn
+from typing import NoReturn
 import sys
 from dictionaryparser.dictionary import Dictionary
 import dictionaryparser.parser as dp
@@ -63,7 +63,8 @@ def search(term: str, dictionary_path: str = "./dictionary.json", mode: str = "w
         case _:
             _die("invalid mode!")
 
-    print(results)
+    for result in results:
+        result.pretty_print()
 
 def usage() -> str:
     return f"""\033[1mParser for the Hayalese Dictionary of Modern Rikatisyï.\033[0m

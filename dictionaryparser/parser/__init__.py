@@ -75,6 +75,10 @@ class Definition:
     parent: str
     irregular_inflections: list[str]
 
+    @staticmethod 
+    def from_dict(d: dict) -> "Definition":
+        return Definition(d["word"], d["pos"], d["word_class"], d["definition"], d["notes"], d["is_derived_term"], d["parent"], d["irregular_inflections"])
+
     def to_dict(self) -> dict:
         return {
             "word": self.word,
@@ -87,9 +91,21 @@ class Definition:
             "irregular_inflections": self.irregular_inflections
         }
 
-    @staticmethod 
-    def from_dict(d: dict) -> "Definition":
-        return Definition(d["word"], d["pos"], d["word_class"], d["definition"], d["notes"], d["is_derived_term"], d["parent"], d["irregular_inflections"])
+    def pretty_print(self, indents=4):
+        INDENT = " " * indents
+        print()
+        print(f"\033[1m\033[34m{self.word}\033[0m, {self.pos.replace('_', ' ')}{f' \033[1m({self.word_class})\033[0m:' if self.word_class != "" else ''}") 
+        print(f"{INDENT}{self.definition}")
+
+        if len(self.notes) != 0:
+            print(f"{INDENT}\033[2m{f"\n{INDENT}".join(self.notes)}\033[0m")
+
+        if self.is_derived_term:
+            print(f"{INDENT}\033[1mDerived From \033[32m{self.parent}\033[0m")
+        if len(self.irregular_inflections) != 0:
+            inflections = ", ".join(self.irregular_inflections)
+            print(f"{INDENT}\033[1mIrregular Inflections: \033[0m {inflections}")
+        
 
 Note = str
 Inflection = str
@@ -152,15 +168,18 @@ class Parser:
                 continue
 
             # Ignore Aa Bb etc
-            if (
-                line[0].strip().lower() in "abcdefghijklmnopqrstuvwxyz'ïö"
-                and len(line.strip()) < 4
-            ):
+
+            is_heading = (
+                line[0].strip().lower() in "abcdefghijklmnopqrstuvwxyz'ïöäæ"
+                and len(line.strip()) <= 4
+            )
+
+            if is_heading:
                 continue
 
             next_line = self.next_line(line)
 
-            if isinstance(next_line, Note):
+            if isinstance(next_line, Note): 
                 prev = res[len(res) - 1]
                 prev.notes.append(next_line)
                 res[len(res) - 1] = prev

@@ -1,25 +1,31 @@
+
+
 Aa
 a- hon. // prefix to demonstrate respect to a noun or verb;  archaic definite article used as an honorific.
 ac num. // (alt. aci) six.
 adaya pron. // we, first person inclusive plural pronoun.
-        inflections: adé (accusative), adayan (ablative), adiya (lative), udáya (genitive). plural pronoun, neutral respect level.
+inflections: adé (accusative), adayan (ablative), adiya (lative), udáya (genitive). plural pronoun, neutral respect level.
 agari stv. // to be restricted, to be tied down
 agarui stv. // negative, to be free.
 agaruim stv. // negative causative, to liberate.
 aici intj. // greeting call, hello, hi, see ei.
-aisy v. // to announce, to tell a large number of people.
-aldevá v. // to contradict.
-akan n. iii // direction.
+aisy v. // to announce, to tell or notify many people.
+aiwa intj. // ok, alright.
+akan n. iii. // direction.
 akari v. // to calculate.
 aki v. // to be big physically.
-akitto n. iii // left, direction, from aki + kito (back of the palm).
-akyalwanon n. iii // derogatory, someone who is useless, stumbles over trivial matters and chores, from aeki alui an u-on (son of a handless pig).
-akye n. iii // right, direction, aki + e (towards the palm).
-akyexamé n. iii // confluence, derived from て-shape on a palm, from akye + xamé; intersection, in a general sense.
+akitto n. iii. // left, direction, from aki + kito (back of the palm).
+akyalwanon n. iii. // derogatory, someone who is useless, stumbles over trivial matters and chores, from aeki alui an u-on (son of a handless pig).
+akye n. iii. // right, direction, aki + e (towards the palm).
+akyexamé n. iii. // confluence, derived from て-shape on a palm, from akye + xamé; intersection, in a general sense.
+aldeva v. // to contradict, derived from deva.
 alé v. // to be upon, to be a matter that someone will experience soon to bear the quality of (formal). sometimes used to act as a copula when the sentence's meaning is unclear.
 ali pron. // I, me, first person singular pronoun, neutral respect level.
 	inflections: alye (accusative), alán (ablative), ariya (lative), welya (genitive). 
 al- aff. // reflexive prefix for verbs. 
+alkadi v. // to move on one’s own, self-moving, automatic (as an adjective).
+alkadissyat n. iii. // to move on one’s own, automatic.
+alkassonoira n. iii. // motorcycle, abbreviated form of alkadi-sonoira, lit. self-moving double-wheel.
 alihorï n. ii. // worldly issues, materialistic issues, issues relating to life.
 alnema v. // to get lost, lit. throw oneself out, derogatory.
 alisugiki n. ii. // carefreeness; caring about oneself in a non-selfish manner, self-care to some extent, from from ali + suki + ki (for I to exist alone).
@@ -28,6 +34,8 @@ ami n. iii. // (alt. amik) house, physical home; building.
 amiccamín n. iii. // library, place where books can be browsed but not bought or sold.
 amikic n. ii. // temple.
 amimi v. // to sleep; to fall asleep
+amisakki v. // to take care of one’s house, housekeeping.
+	isamisakki n. iii. // homemaker, housewife etc.
 amsa n. iiii. // large swathe of land, typically uninhabited or agricultural.
 ammasyanke n. iii. // teahouse, tea parlour, establishment where tea is drunk. 
 amyazé n. iii. // homework, work to be done at home given from outside one’s residence
@@ -57,7 +65,7 @@ askin n. iii. // fat, blubber.
 atari v. // to adorn on one’s head, to wear upon one’s head.
 atassyat n. iii. // train.
 atua pron. // we, first person exclusive plural pronoun.
-        inflections: atté (accusative), atuan (ablative), atica (lative), utsu (genitive). 
+inflections: atté (accusative), atuan (ablative), atica (lative), utsu (genitive). 
 atoi v. // to wake up.
 avi n. i. // female.
 awe num. // seven.
@@ -65,56 +73,62 @@ axi v. // to teach, to instruct.
 axyá v. // passive, to learn, to be taught.
 isaxi n. i. // teacher, instructor.
 isaxyá n. i. // student.
+axu n. iii. // transmission, passing down of information.
 axyákami n. iii. // school, lit. house where people are taught.
 axyátheda n. iii. // school subject, lit. taught topic.
-aza n. ii. // action, incident, occurrence, time.
+aza n. iii. // action, incident, occurrence, time.
+azahai v. // to succeed, triumph, be successful.
 azaharai v. // to exceed by a significant amount; to be hyperactive.
 azé irr v. // (transitive) to do; (intransitive) to occur, to happen. root: aza. originally to work, displaced hi.
+azéson n. iii. // company, corporation.
+        isazéson n. i. // office worker, salaryman.
+azéyure n. iii. // occupation, job.
 
 Ää
 ända n. i // elder sister.
 ändi n. i // younger sister.
-ära n. iii // example.
+ära n. iii. // example.
 
 Ææ 
-aeki  n. iii // hand.
-aekréntar  n. iii // wristwatch, watch for telling time, from aeki + réntar (handwatch).
-aemi n. iii // (alt. amis) city.
-aekyazakari n. iii // mobile phone.
+aeki  n. iii. // hand.
+aekréntar  n. iii. // wristwatch, watch for telling time, from aeki + réntar (handwatch).
+aemi n. iii. // (alt. amis) city.
+aekyazakari n. iii. // mobile phone.
 aesyé v. // to rest, to take a break.
 
 Bb 
-bae n. iii // bread.
-bín n. iii // bean.
-birí n. iii // facility, specialized building, enclosed structure with an intended purpose to conduct a specific activity or commerce with a specific good(s), cannot be applied to residences or general stores, i.e. department stores, shopping malls, supermarkets.
-bisa n. iii // pizza.
-bita n. iii // potato.
+bae n. iii. // bread.
+bín n. iii. // bean.
+birí n. iii. // facility, specialized building, enclosed structure with an intended purpose to conduct a specific activity or commerce with a specific good(s), cannot be applied to residences or general stores, i.e. department stores, shopping malls, supermarkets.
+bisa n. iii. // pizza.
+bita n. iii. // potato.
 
 Cc 
 ca intj. // yes.
+cadi stv. // to be happy.
 cali v. // to bend, to curve.
-camín n. iii // book.
-cari n. iii // noodles.
+camín n. iii. // book.
+cari n. iii. // noodles.
 caró n. i// physical body; physical health.
-cï n. iii // building, enclosed structure.
-cicei n. iii // park, garden.
+cï n. iii. // building, enclosed structure.
+cicei n. iii. // park, garden.
 cimi v. // to be stupid, idiotic, lack common sense.
 cin n. i // daughter.
-cïrin n. iii // butterfly.
+cïrin n. iii. // butterfly.
 civiri n. iii. // can, tin.
-cïxyazirarré n. iii // hospital.
-corro n. iii // disturbance; rowdiness, annoyance.
+cïxyazirarré n. iii. // hospital.
+corro n. iii. // disturbance; rowdiness, annoyance.
 corrosy v.// to argue with, other person takes accusative.
 corryï v. // to disturb; to cause a ruckus.
 cosy v. // to enter, to go into an enclosed space; to join.
 	-cosy aux. // into.
 	cosyran ka phr. // including, for instance.
 cosyki v. // to assimilate, to blend into; to melt.
-cosyaza n. iii // participation.
+cosyaza n. iii. // participation.
 cosyazé v. // to participate in an activity; to enter a group or association with the intention of working, from cosy + azé (to enter into doing).
-covo n. iii // hat, generic closed-top head covering.
-covosiratte n. iii // crown, tiara.
-cue n. iii // meat, intended for eating.
+covo n. iii. // hat, generic closed-top head covering.
+covosiratte n. iii. // crown, tiara.
+cue n. iii. // meat, intended for eating.
 cumé stv. // to be fast, generic.
 
 
@@ -122,21 +136,23 @@ Dd
 dá n.  iii// transportation station.
 damat n.  ii// sin, moral crime.
 dami n. iii. // stream, small river.
-dár n. iii // book, literary word borrowed from Asbirqänna dars, typically referring to holy or important books.
+dár n. iii. // book, literary word borrowed from Asbirqänna dars, typically referring to holy or important books.
 daté v. // to forgive someone for an offense.
+	datari intj. // sorry, lit. forgive me. 
 dau n. // food, drink, edible goods.
 dé stv. // (alt. det) to be situated below, lower; down.
 dei irr.v. // to consume, to drink, to eat, root: dau, from classical dahi.
 dekiné v. // to pull down, depose, get rid off.
 dená n. iii. // bay, lagoon.
 deni n. iii. // public, pertaining to or owned by a community or a greater group of people than a private entity.
-dera n. iii // block, cube, piece of a larger object in the form of a chunk.
+dera n. iii. // block, cube, piece of a larger object in the form of a chunk.
 deva v. // to be incorrect, wrong; to be misinformation, fake, typically unknowingly.
 devi v. // to search for, to find.
 di v. // to go, to travel physically.
 
-diec n. iii // door; city gate.
+diec n. iii. // door; city gate.
 díta n. ii.// door; shrine or garden gates, alternatively dista.
+dokumende n. iii. // document, borrowed from English document.
 dosu n. iii. // record.
 dosyï v. // to record down, record events.
 duwa n. iii. // art.
@@ -166,6 +182,8 @@ esi num. // eleven (archaic), relic of duodecimal system.
 eta part. // very, extremely. intensifies the following verb.
 etosa n. iii. // shell.
 ezara n. i. // blessing.
+	ezara ka seyá aléi lï intj. // formal greeting, literally may blessings be upon you.
+ezaré v. // to bless.
 
 Ff
 fambé v. // to visit.
@@ -196,6 +214,7 @@ gatán n. i. // brain.
 gán n. iii. // stone, rock.
 garran n. iii. // confidence.
 garrani stv. // to be confident.
+giri v. // to bite, chew.
 gitsï v. // to do to an extent, typically used with an adjective.
 gö n. iii. // coal, charcoal.
 gomi v. // to catch, hunt without violent means, i.e. with a net rather than a rifle.
@@ -224,7 +243,7 @@ haesé v. // to be flat, equal.
 haesi n. iii. // plains, flat area, field.
 hagarï v. // to complete, finish, end thoroughly.
 haghara intj. // as you wish, your wish is my command.
-hai v. // to blossom; to complete, at least past a turning point, just complete;  to result in, preceded by lative noun
+hai v. // (intransitive) to blossom; (transitive) to complete, at least past a turning point, just complete; (lative-transitive) to result in, preceded by lative noun, root noun hau.
 haigi v. // to stop temporarily.
 haimi v. // to suppress yourself to remain quiet.
 hairén n. iii. // the past, lit. completed time.
@@ -262,11 +281,13 @@ hida n. i. // arm.
 hidaema n. i. // elbow.
 hide n. iii. // agricultural field.
 hïlya v. // to call.
+hira n. iii. // wheel.
 hisuké stv. // to be shallow in terms of depth.
 hisy n. iii. // coldness.
 hita n. iii. // pink.
 hiya n. iii. // nearness, proximity.
 hiya stv. // to be near.
+hiyarén n. iii. // the short future, soon.
 hojödeza n. iii. // basin.
 hojöri stv. // to be deep.
 horï v. // to tie knots, to tie oneself; to write (archaic).
@@ -307,6 +328,7 @@ irakari v. // to copy, duplicate.
 irakesyinegitré v. // to revive the popularity of something, to create a renaissance, from irak + syin-git + ré (a second coming of popularity).
 irakivé v. // to meet again, from irak + ivé.
 	irakivé ya intj. // goodbye, see you again.
+iraki v. // bye, informal contraction of irakivé ya.
 kivya v. // bye, informal contraction of irakivé ya.
 irákkavi v. // argue, quarrel.
 irakké v. // to disperse,  to scatter; to separate into two; to travel clockwise (archaic), metaphorical representation of si around Amikyanire, from irakyehi (to become two).
@@ -315,22 +337,25 @@ irarrensavé v. // to collect what is owed, collect debt.
 iratté v. // to distinguish, separate from one another, from irak + tahi (to see into two).
 irazé v. // to repeat, from irá + azé (to do twice).
 isa n. iii. // northeast direction.
+isamisakki n. i. // home maker.
+isazéson n. i. // office worker.
 isriká n. i // citizen of a nation, see riká.
 isyaxé n. iii. // pen, ballpoint pen; generic writing tool.
 isyï n. iii. // language, derived from i + syï (lit. tool for speaking).
+isyïtaki v. // to translate between languages.
 isyki n. i. // woman.
 ite n. iii. // table used to organize data, from i + te (tool to show).
 itó n. iii. // money.
 itóivai stv. // cheap.
-itófi n. iii // wealth.
+itófi n. iii. // wealth.
 itósïka stv. // expensive.
 iva n. iii. // meeting, gathering.
 ivai stv. // to be short, low in terms of height or altitude.
 ivé n. iii. // to meet with another, to come together.
-ivúkondïm n. iii. // technology. From i + vú + kondïm (tool + skill + to advance).
+ivúkondïm n. iii. // technology, from i + vú + kondïm (lit. tool to advance skills).
 iya n. ii. // light.
 iyakari n. iii. // calculator.
-izakari n. iii. // computer.
+izakari n. iii. // computer, abbreviated form of izaqäkari.
 
 Ïï
 ïka n. iii. // research, study.
@@ -349,16 +374,18 @@ jizi v. // to grind.
 juri v. // to pulverize, to turn into powder, to crush.
 
 Kk 
-ka part. // clause separator.
-typically used to disambiguate vague sentences by separating parts of speech; 
-particle used to emphasize the topic or subject of a sentence in a verbless copula-sentence; söruaz ka Hayalese the next [station] is Hayalese. 
-particle used to emphasize a part of speech; ali ka azuéda it was not me that did it.
-particle used to mark subject when displaced from the traditional SOV order (formal); deida ka pisan what I ate was pizza.
+ka part. // complementizer, clause separator and .
+clause separator: typically used to disambiguate vague sentences by separating parts of speech; 
+complementizer: used to mark the complement of a sentence; to ali ghun téda kan syïda he said that I saw the cow.
+emphasis marker: particle used to emphasize the topic or subject of a sentence in a verbless copula-sentence; söruaz ka Hayalese the next [station] is Hayalese. 
+emphasis marker: particle used to emphasize a part of speech; ali ka azuéda it was not me that did it.
+subject marker: particle used to mark subject when displaced from the traditional SOV order (formal); deida ka pisan what I ate was pizza.
 ká n. iii. // claw.
 kac v. // to listen, to hear.
 kacyarré v. // to resonate (non-figuratively), to echo, from kacï + irarré (to listen to again).
 kaedé stv. // to be superior over another.
 kaedhki stv. // to be (regarded as) official.
+kaet conj. // several, some.
 kadi v. // to move.
 kadihanya v. // animation.
 kagi v. // to bring.
@@ -416,11 +443,12 @@ kindi v. // to wither, to disintegrate.
 kiné v. // to pull.
 kïra n. iii. // level, rank.
 kirei n. iii. // musical beat.
-kiren n. iii // modern times, modern era.
+kiren n. iii. // modern times, modern era.
 kiri v. // to run, synonym of kej.
 kirnak n. iii. // order.
 kirya stv. // to be new.
-kirya n. iii. // quality of being new, newness, from ki + ryáda (from rï, meaning "that had come"), lit. first thing that had come.
+kirya n. iii. // quality of being new, newness, shortened form of kirayada. irregular neutral adjective formation is kiryada rather than kiryaz, from ki + ryáda (from rï, meaning "that had come"), lit. first thing that had come.
+	yakiryaré n. i. // newcomer.
 kiryavata n. iii. // revolution, in the sense of reforming something and improving it, contrasts with kyedoqarra.
 kisai adv. // other.
 kisighagé v. // to massacre, genocide.
@@ -469,6 +497,7 @@ kutsï n. iii. // spruce tree.
 kuyé v. // (alt. kui) to layer, to pile up, to accumulate, to build up; to travel anti-clockwise (archaic), metaphorical representation of si around Amikyanire, from koihehi (to rest upon again repeatedly).
 kya n. iii. // front.
 kyani v. // to pay.
+kye n. i. // generic title used after one’s surname, Mr., Ms., Mrs..
 kyedo n. iii. // burden, tiresome matter.
 kyedoqarra n. iii. // revolution, in the sense of taking down something negative;
 kyedoqarré has the connotations of overthrowing an evil or removing something that has negative connotations. this would not be used for revolutions where innovations were created, and the previous conditions were not necessarily negative, for instance, the industrial revolution. the appropriate word in the latter case would be kiryavaté.
@@ -505,12 +534,12 @@ mandé v. // to complete the remaining part of something, to make something full
 mané v. // to point at or towards something; root: mana.
 masi n. iii. // choice. 
 masi v. // to choose, select, decide.
-masta n. iii // fish.
+masta n. iii. // fish.
 matá n. ii // reigning monarch of a kingdom, gender neutral so can apply to both kings and queens, depending on whether the society is patriarchal or matriarchal.
 mé v. // to fight.
 meté v. // to do to one’s upper limit, to the point of death.
 mec v. // to lose possession.
-men n. iii // half.
+men n. iii. // half.
 mi num. // five.
 mic v. // to reside, live in.
 mikanda num. // ten thousand, myriad; forever (dated).
@@ -521,15 +550,15 @@ forms a comparison in the format a min b adj, where a is the actor with a lower 
 used to stress personal opinion, ali min né sa syam tuyá syirui personally I don’t like as much as he does.
 forms a superlative clause in the format a min b adj, nema min ke cijimi you’re the stupidest person in the world.
 	minari conj. // as long as, while, used in the same way as min.
-mïn n. iii // beef.
+mïn n. iii. // beef.
 minai v. // to count.
-mita n. iii // brown.
+mita n. iii. // brown.
 möfi v. // to blanket, cover completely.
-mon n. iii // period of time.
-monnen n. iii // periodical basis.
+mon n. iii. // period of time.
+monnen n. iii. // periodical basis.
 myï v. // to buy.
-myïbrí n. iii // bazaar, market.
-myo n. iii // cat.
+myïbrí n. iii. // bazaar, market.
+myo n. iii. // cat.
 
 Nn
 na’é stv. // to be long.
@@ -539,248 +568,259 @@ naeki stv. // to be small; of a small amount.
 naekikuitasy n. iii. // Calculus, small accumulating numbers.
 naeren n. iii. // minute.
 nahari n. iii. // port.
-nahos n. i // maternalgrandfather.
+nahos n. i // maternal grandfather.
 nai v. // to not be, negative copula, colloquially pronounced ne.
 naihai v. // to fail, colloquial, lit. to become nothing, see xarikké.
 namai n. i // maternal grandmother.
-natu n. iii // question.
+natu n. iii. // question.
 naihe conj. // instead.
-naunnegi n. iii // authority, alternatively naulinegi.
+naunnegi n. iii. // authority, alternatively naulinegi.
 -nda part. // but, however, suffixed onto the final word of a clause, contraction of inda.
 -nde part. // then, as a consequence, therefore, né syirinde mye if you like it, buy it. suffixed onto the final verb of a clause, for suffixation onto other parts of speech see min.
-né n. iii // northwest.
-negi n. iii // strength, power.
+né n. iii. // northwest.
+negi n. iii. // strength, power.
 nei conj. // like, similar to.
 neki n. ii // world, earth.
 nekiyïka n. ii // geography.
-nekyorasi n. iii // equator.
-nemat n. iii // trash, rubbish
+nekyorasi n. iii. // equator.
+nemat n. iii. // trash, rubbish
 nemé v. // to throw away, dispose, get rid of, remove.
+neyaré v. // to fulfill one’s desire.
+	neyara intj. // imperative, please, alternate form to -i imperatives.
 ni pron. // third person singular pronoun for class III.
 	inflections: né (accusative), niyan (ablative), niya (lative), onyá (genitive).
 ni conj. // like, similar to.
 nic v. // to mourn, grieve.
 niccé v. // to howl.
-no n. iii // head.
-nurui n. iii // mangrove wood.
+no n. iii. // head.
+nurui n. iii. // mangrove wood.
 
 Oo
-ocan n. iii // job, occupation.
-ocanson n. iii // business.
+ocan n. iii. // job.
+ocanson n. iii. // business.
 ofu num.  // zero.
-on n. iii // pig.
-ora n. iii // centre, middle.
+on n. iii. // pig.
+ora n. iii. // centre, middle.
 	-ora aux. // inside of, in.
 orakövi v. // to mediate, compromise.
-orakövikata n. iii // treaty.
+orakövikata n. iii. // treaty.
 oré v. // to surround, enclose, encircle, root: ora. 
 synonyms with oratai and oraqasy.
-ori n. iii // pink.
-osyama n. iii // milk.
+ori n. iii. // pink.
+osyama n. iii. // milk.
 oseri v. // to distance.	
 isoseryá n. i. // outcast.
 
 Öö
-ö n. iii // place, land.
-ödon n. iii // bone.
-ökegure n. iii // quay.
+ö n. iii. // place, land.
+ödon n. iii. // bone.
+ökegure n. iii. // quay.
 ökeran n. ii // heaven, unreachable realm.
-ölyami n. iii // fruit, from öl + yami (thing of sweetness).
-öqédi n. iii // exit.
+ölyami n. iii. // fruit, from öl + yami (thing of sweetness).
+öqédi n. iii. // exit.
 ötte n. // layout.
 öttei v. // to layout.
 
 Qq
 qadai v. // to oppose, flow against, go against.
-qaga n. iii // evil.
+qaga n. iii. // evil.
 qan num. // ten; initially meant twelve in the duodecimal system. 
 qanaek n. i. // tongue.
 qani v. // to send.
-qaran n. iii // rule, law.
+qaran n. iii. // rule, law.
 qarra v. // to read, variant form of kar’a. not to be confused with the imperative of qarré.
 qarré v. // to turn over, take down, flip over; to overthrow.
 qasy v. // to draw an illustration, root: qasye.
-qasye n. iii // drawing, illustration, sketch.
-qaya n. iii // outside.
+qasye n. iii. // drawing, illustration, sketch.
+qaya n. iii. // outside.
 qédi v. // to leave, exit, come out.
 	-qédi aux. // outside of.
-qédidarï n. iii // new moon.
+qédidarï n. iii. // new moon.
 qodi stv. // to be strong.
-qodisy n. iii // soup, stock, broth, typically referring to meat-based soups.
+qodisy n. iii. // soup, stock, broth, typically referring to meat-based soups.
 qulim n. i // community, commune, borrowed from Mahasi kulima.
-quse n. iii // oak.
+quse n. iii. // oak.
 
 Rr 
-raeta n. iii // hall, chamber, large room.
-raifa n. iii // victory; long live cheer, typically used with Sitaku.
+raeta n. iii. // hall, chamber, large room.
+raifa n. iii. // victory; long live cheer, typically used with Sitaku.
 rasy v. // open.
 ré v. // to come.
 rei v. // to hit.
-reisetti n. iii // phonology.
-reison n. iii // army, military.
-rekas n. iii // machine.
-rén n. iii // time.
-réngizun n. iii // temporary period of time, impermanent period, from rén + kizú + ni (of a segment of time).
-réntar n. iii // clock.
-rénve n. iii // now, current time.
+reisetti n. iii. // phonology.
+reison n. iii. // army, military.
+rekas n. iii. // machine.
+rén n. iii. // time.
+rénnai n. iii. // the past.
+réngizun n. iii. // temporary period of time, impermanent period, from rén + kizú + ni (of a segment of time).
+réntar n. iii. // clock.
+rénre n. iii. // future.
+rénve n. iii. // now, current time.
 rénvei conj. // up until this point.
-reski n. iii // apple.
+reski n. iii. // apple.
 reté v. // to appear, from ré + te (to show once).
 reúblika n. iii. // republic, native word yanaurika.
-reva n. iii // root, origin.
-revadhi n. iii // entitlement, right (as in human rights), from reva + vï (a rooted ability).
+reva n. iii. // root, origin.
+revadhi n. iii. // entitlement, right (as in human rights), from reva + vï (a rooted ability).
 revazi v. // to rely on something, to be dependent, accompanied by an accusative.
 revté v. // to model, base on.
-rieph n. iii // fire, synonym of xäs.
+rieph n. iii. // fire, synonym of xäs.
 riká  n. ii // (alt. rikat) nation, large group of people bounded by culture and identity; country to an extent.	
 	isriká n. i // citizen of a nation.
-rikaph n. iii // ownership by the nation, national entity, contraction of rikafi.
-rikánaul n. iii // politics, matters to do with the governance of a nation.
-rikattovan n. iii // province, state, often shortened to tovan. (lit: country + section)
+rikaph n. iii. // ownership by the nation, national entity, contraction of rikafi.
+rikánaul n. iii. // politics, matters to do with the governance of a nation.
+rikattovan n. iii. // province, state, often shortened to tovan. (lit: country + section)
 risyé stv. // to be full, filling to the maximum capacity, excluding the replenishment of hunger.
 risyï v. // to lack, to have an insufficient quality of something.
 riya pron. // honorific first person pronoun, listener bears same status as speaker, and has a close relationship, I, me.
 rizyeda v. // to be optimistic, to look forward to, to anticipate with hope, from risyï + jeda.
-rólo n. iii // shadow.
+rólo n. iii. // shadow.
 rólossi v. // to cast a shadow, to darken.
-routo n. iii // yellow.
-rye n. iii // emerald, jade 
+routo n. iii. // yellow.
+rye n. iii. // emerald, jade 
 
 Ss
-sa n. iii // day, referring to the 24-hour day-night cycle.
+sa n. iii. // day, referring to the 24-hour day-night cycle.
 sa part. // with, denoting the use of a tool or medium, instrumental particle.
 sa’aré v. // to stay behind, to remain; to be remainder.
-sän n. iii // hook, sharp bend.
+sän n. iii. // hook, sharp bend.
 sabarrák intj. // profane, fuck you, lit. may you be cursed, derived as a contraction of savarrai ke.
-sadre n. iii // justice, correctness.
-sadretoja n. iii // judge, from sàrhe + todi + ya (person who upholds justice).
+sadre n. iii. // justice, correctness.
+sadretoja n. iii. // judge, from sàrhe + todi + ya (person who upholds justice).
 sadosu n. // diary.
 saet conj. // or (exclusive).
-saeth n. iii // scenario,  situation.
+saeth n. iii. // scenario,  situation.
 sai intj. // yes, informal form of sami.
 sail v. // to estimate, guess based on information.
-sakki v. // to protect, defend.
+sakki v. // to protect, defend, shield.
+sakku n. iii. // shield.
 sal v. // to work, root: sala.
 sala n. iii. // work.
-salki n. iii // culture.
+salki n. iii. // culture.
 sami stv. // to be correct, be the truth; yes.
-san’ai n. iii // vegetable.
+san’ai n. iii. // vegetable.
 sanarï stv. // to be sad.
-sanaro n. iii // sadness.
+sanaro n. iii. // sadness.
 sandhé stv. // to be thin.
-sari v. // to should do, to ought to do, to need to do.
+sari v. // to should do, supposed to, to ought to do, to need to do.
 sasyi v. // to venerate, pray to, worship, archaic form kacï.
-sat n. iii // truth.
+sat n. iii. // truth.
 sat conj. // until.
-satasy n. iii // date, as in writing that specifies the day of the year.
+satasy n. iii. // date, as in writing that specifies the day of the year.
 satehiya v. // to be close to truth, accurate. 
-satha n. iii //area, general section of land.
-sathanya n. iii // map.
-satsé n. iii // summer.
+satha n. iii. //area, general section of land.
+sathanya n. iii. // map.
+satsé n. iii. // summer.
 savarrai v. // profane, to curse.
 savé v. // to owe.
 sawi v. // to drink, typically dei is used when the distinction is not required.
 sazon n. iii. // week.
 se conj. // or (inclusive).
 se pron. // honorific second person pronoun, listener bears same status as speaker, and has a close relationship, you.
+	seyá irarrai intj. // formal response to ezara ka seyá aléi lï, literally please return the blessings to yourself.
 seké conj. // or above (inclusive).
 sekï v. // to use, utilize.
-sena n. iii // name, archaically pronounced as senya.
+sena n. iii. // name, archaically pronounced as senya.
 sendi num. // nine.
-sendi n. iii // southeast.
-senyé n. iii // to be late.
- senyem n. iii // causative, to delay.
-seri n. iii // hill, small mountain.
-seta n. iii // orchid.
-sete n. iii // tower, pagoda.
-setti n. iii // sound.
+sendi n. iii. // southeast.
+senyé n. iii. // to be late.
+ senyem n. iii. // causative, to delay.
+seri n. iii. // hill, small mountain.
+seta n. iii. // orchid.
+sete n. iii. // tower, pagoda.
+setti n. iii. // sound.
 sevi v. // to control, manage.
 seya n. iii. // weakness.
 seyé stv. // to be weak, root: seya.
-si n. iii // thread, string; life (archaic).
-sighaga n. iii // murder.
+si n. iii. // thread, string; life (archaic).
+sighaga n. iii. // murder.
 sigahgé v. // to kill, murder, from si + ghagé (to cut a life).
 sïka stv. // to be tall, high in terms of height or altitude.
-sima n. iii // straight.
+sima n. iii. // straight.
 sinna n. // development.
 sinné v. // to grow, develop; to raise another, from si + na’e (to lengthen a life)
 siph n. // port, appears in place names, see nahari.
 siri v. // to offer, to give to a higher power, to offer a sacrifice.
 sïri v. // to deserve; to be fate.
 sirré v.  // to die, from si + irarré (to return a life), rooted in a belief that spirits eventually return to the same place.
-sisa n. iii // sand.
-siva n. iii // cheese.
+sisa n. iii. // sand.
+siva n. iii. // cheese.
 sixyazi stv. // to be scarred, have a permanent injury.
-siya n. iii // meaning, definition.
+siya n. iii. // meaning, definition.
 siyarasy v. // to define. (lit: meaning +
-sizandé n. iii // alley, narrow street.
+sizandé n. iii. // alley, narrow street.
 sizdexé v. // to be outcasted and become a traitor.
 só stv. // to be in front of another.
-son n. iii // group.
-sono n. iii // twin, double.
+son n. iii. // group.
+sono n. iii. // twin, double.
+sonoira n. iii. // bicycle, abbreviated form of sonoiratassyat lit. double-wheel car.
 sörarua v. // to inherit.
 söran n. i // daughter.
-söraza n. iii // tradition.
+söraza n. iii. // tradition.
 soré v. // to let someone go ahead.
 söri v. // to follow, come after, to be after, originally seluri.
 	sör part. // after.
 sör- aff. // following, subsequent.
-sörsa n. iii // tomorrow.
+sörsa n. iii. // tomorrow.
 soto num. // eight.
-souka n. iii // chair.
-souso n. iii // flower.
+souka n. iii. // chair.
+souso n. iii. // flower.
 sowi stv. // to be dyed, coloured.
 sözöri stv. // to be traditional.
-su n. iii // word; speech.
+-ssa intj. // so, prompting the listener to respond.
+su n. iii. // word; speech.
 sue n. i // distinguished person, person related to the government or palace.
 	asue hon. // mister, miss, honorific for a person.
 suki v. // to be located at, to exist at a place.
 suté stv. // to be simple, easy.
 
 SYsy
-syaja n. iii // hair.
-syajosy n. iii // brush used for calligraphy and writing.
-syalan n. iii // washing.
+syaja n. iii. // hair.
+syajosy n. iii. // brush used for calligraphy and writing.
+syakke intj. // I see, it’s like that.
+syalan n. iii. // washing.
 syalanni v. // to bathe, wash.
 syalhorï v. // to feign forgiveness and plead to be reintegrated into society.
-syam n. iii // road, path; method, route, process, manner.
-syamfédon n. iii // highway. 
+syam n. iii. // road, path; method, route, process, manner.
+syamfédon n. iii. // highway. 
 syani v. // to give birth.
 syarré v. // to save someone; to bandage.
-syarrï n. iii // month.
+syarrï n. iii. // month.
 	-syrï aff. // suffix used for months of the year.
 syarta n. ii // religious ceremony used to bless future operations.
 syasi v. // to flow.
 syaxé v. // to write onto paper, type up.
-syaxérekas n. iii // typewriter, printing press, lit. writing machine.
-sye n. iii // sky.
-syemi n. iii // rain.
-syemikövi n. iii // umbrella, from syemi + i + kövi (tool to push rain away)
+syaxérekas n. iii. // typewriter, printing press, lit. writing machine.
+sye n. iii. // sky.
+syemi n. iii. // rain.
+syemikövi n. iii. // umbrella, from syemi + i + kövi (tool to push rain away)
 syemmyï v. // to trade, exchange, from syeta + myï (to sell and buy).
+syenahari n. iii. // airport, claque of English airport.
 syeqan num. // hundred million.
 syesíhka n. i // derogatory, a person who frequently gets themselves in arguments.
-syeta n. iii // to sell.
+syeta n. iii. // to sell.
 syï v. // to speak, say, tell.
-syïr n. iii // water, also seen as syï.
+syïr n. iii. // water, also seen as syï.
 syïdoi v. // to apologize.
-syïkirnak n. iii // grammar.
-syïkota n. iii // poem
+syïkirnak n. iii. // grammar.
+syïkota n. iii. // poem
 syïl v. // to hydrate.
-syilyami n. iii // fruit that grows on a tree.
-syim n. iii // tree.
-syin n. iii // heat.
-syïn n. iii // green.
-syïrekas n. iii // speaker, machine used to play sound.
-syïreva n. iii // media, lit. root of communication.
+syilyami n. iii. // fruit that grows on a tree.
+syim n. iii. // tree.
+syin n. iii. // heat.
+syïn n. iii. // green.
+syïni v. // to suck on something.
+syïrekas n. iii. // speaker, machine used to play sound.
+syïreva n. iii. // media, lit. root of communication.
 syiri v. // to enjoy, like.
 syïri n. ii // purity, cleanliness of a person.
-syiye n. iii // steam.
+syiye n. iii. // steam.
 syïzy v. // to turn, rotate.
-syoran n. iii // spring.
+syoran n. iii. // spring.
 syorï v. // to get married, to be bound for life.
-syou n. iii // bird, fowl.
-syupageti n. iii // spaghetti.
-syuja n. iii // mush.
+syou n. iii. // bird, fowl.
+syupageti n. iii. // spaghetti.
+syuja n. iii. // mush.
 
 Tt
 taci v. // to arrive.
@@ -790,6 +830,7 @@ tai n. iii. // circle.
 taisyïzy v. // to rotate (in a circular motion).
 taji n. iii. // heart.
 taki v. // to change.
+takiyami n. iii. // school transfer.
 tama n. iii. // home.
 tamma n. iii. // board.
 tan num. // three.
@@ -799,8 +840,8 @@ tarassá n. iii. // shirt.
 tarei v. // to forget.
 tarré v. // to destroy.
 tassyat n. iii. // car, automobile, carriage.
-tasy n. iii // number, numeral.
-tasyïka n. iii // mathematics, math, study of numbers.
+tasy n. iii. // number, numeral.
+tasyïka n. iii. // mathematics, math, study of numbers.
 tayáveri stv. // to behave differently when shown to someone else, i.e. when an issue fixes itself the moment you show it to someone, lit. to be shy when shown.
 té v. // to see, to look (at).
 	te v. // causative, to show.
@@ -812,7 +853,7 @@ teqa n. iii. // hardness (of a material)
 teqán n. iii. // harshness, related to teqa (hard). possibly from teqa-ni.
 teza n. iii. // bowl.
 to pron. // he, she, gender-neutral third person singular pronoun.
-        inflections: tue (accusative), to’án (ablative), torya (lative), uto/tuyá (genitive).
+inflections: tue (accusative), to’án(ablative), torya (lative), uto/tuyá (genitive).
 tobé v. // to group, to come together, to assemble.
 tobéze v. // to work together, collaborate.
 toj v. // to keep, maintain, uphold.
@@ -850,59 +891,59 @@ u prep. // of, used to denote possession, written as a prefix with a hyphen; gh�
 	w- aff. // appears before vowels;
 	wi- aff. // appears before i and y.
 udäki stv. // to be thick.
-ukya n. iii // first, from u- (of) + kya (front), related to ki (one).
+ukya n. iii. // first, from u- (of) + kya (front), related to ki (one).
 uni v. // to serve.
-usel n. iii // second; following, from u- (of) + söri (follow, originally seluri), also useli. 
-utari n. iii // sea bream. 
+usel n. iii. // second; following, from u- (of) + söri (follow, originally seluri), also useli. 
+utari n. iii. // sea bream. 
 uttei v. // to spread out, to lay out.
 
 Vv
 va pron. // that, referring to an object in distal proximity.
-vaga n. iii // violence.
-vagé n. iii // short blade, dagger, knife used for hunting, from i + ghagé (cutting tool).
-vagéamsa n. iii // cape (geography).
-vamos n. iii // orange colour.
+vaga n. iii. // violence.
+vagé n. iii. // short blade, dagger, knife used for hunting, from i + ghagé (cutting tool).
+vagéamsa n. iii. // cape (geography).
+vamos n. iii. // orange colour.
 vandi stv. // to be fun, enjoyable.
 vanli v. // to receive.
-vara n. iii // respect.
+vara n. iii. // respect.
 varé v. // to respect, root: vara.
 vaté v. // to overthrow, replace, cause to fall, cause to collapse.
 vatu num. // hundred.
 vatuqan num. // thousand.
 vaxaré v. // to offend.
-vaxús n. iii // the quality of being idiotic.
+vaxús n. iii. // the quality of being idiotic.
 ve pron. // this, referring to an object in proximal proximity.
 vejai conj. // thus, therefore, because of this.
 vejai ké conj. // in addition, also, furthermore, as well.
-vera n. iii // wood.
+vera n. iii. // wood.
 veri stv. // to be shy.
 veyava conj. // unsure.
 vi v. // to get, take.
 vï v. // to be able to, root: vú.
 	vïm v. // causative, to permit, allow.
 vïsré v. // to permit, allow, synonym of vïm.
-vú n. iii // ability, skill.
+vú n. iii. // ability, skill.
 vuri n. i // man.
-vyocari n. iii // pork liver noodles, commonly spelled vyochari due to English influence, derived from vyomcari.
+vyocari n. iii. // pork liver noodles, commonly spelled vyochari due to English influence, derived from vyomcari.
 vyo furi u-vyocari hye ko nai phr. // losing its defining aspect means losing their entire character, one must stay unique, literally vyochari without its vyo (livers) amounts to nothing.
 vyom n. i // liver.
 
 Ww
-wa n. iii // north, formerly referred to the direction of the tip of mount hoso, from Aṡbirqänna.
+wa n. iii. // north, formerly referred to the direction of the tip of Mount Hoso, from Aṡbirqänna.
 wafai v. // to love.
 wafi v. // to anticipate, to expect before it comes.
-wafyaza n. iii // plan.
+wafyaza n. iii. // plan.
 wafyazé v. // to plan, literally to do before it comes.
 wakami n. // dance.
 wakami v. // to dance.
-wakó n. iii // vertical.
+wakó n. iii. // vertical.
 waph v. // to want, desire.
 wasy v. // to swim.
 wata stv. // bright, vivid of a colour.
-wegisöri n. iii // third, from u- (of) + he (and) + ki (one) + söri (follow).
+wegisöri n. iii. // third, from u- (of) + he (and) + ki (one) + söri (follow).
 weli v. // to catch, hunt.
 wi v. // to guess.
-wica n. iii // punishment.
+wica n. iii. // punishment.
 wicé v. // to punish.
 woci v. // to command.
 wuré v. // to starve.
@@ -910,39 +951,43 @@ wuré v. // to starve.
 Xx
 xärra n. i // elder brother.
 xärri n. i // younger brother.
-xäri n. iii // flag.
-xäs n. iii // fire, synonym of rieph.
+xäri n. iii. // flag.
+xäs n. iii. // fire, synonym of rieph.
 xäsa v. // to burn.
 xasat n. iii. // glass.
-xäsgán n. iii // flint.
+xäsgán n. iii. // flint.
 xamé v. // to intersect; to cross over one another.
 xarfé v. // to mess with, pick a fight with, make fun of.
 xari v. // to appeal.
 xarikké v. // to fail, traditional form of naihai, from xari irakké. 
-xarré n. iii // red.
-xauru n. iii // carrot.
+xarré n. iii. // red.
+xaryï v. // to bite, chew.
+xauru n. iii. // carrot.
 xé v. // to break.
 xeré v. // to shout, scream.
+xira n. iii. // star.
+xiraiya n. iii. // glory, nominal form of stative verb to be glorious.
 xisy v. // to boil.
-xo n. iii // downwards.
+xo n. iii. // downwards.
 xohos n. i // paternal grandfather.
 xomai n. i // paternal grandmother.
-xodde n. iii // barbarian, creature, beast.
+xodde n. iii. // barbarian, creature, beast.
 xoj v. // to force.
-xojsyïreva n. iii // propaganda.
+xojsyïreva n. iii. // propaganda.
 xyazi v. // to tear.
 xyazirré v. // to save someone from death.
 
 Yy
 ya n. i // person, human. when reduplicated, yana.
-ya-, -ya, n. i // in combination with a verb, describes a person who conducts the attached verb, i.e. in nauliya; refers to people from a certain nation, i.e. 
-	is- n. i // form of ya- when preceding a vowel; archaic formation of ya, i.e. in isrika.
+ya-, -ya, n. i // in combination with a verb, describes a person who conducts the attached verb, i.e. in nauliya, leader. 
+	is- n. i // form of ya- when preceding a vowel; archaic formation of ya, i.e. in isrika, refers to people from a certain nation.
 ya’anire n. ii // deity of the earth
 yafé n. i // doctor, see fé.
 yami n. iii. // sweetness.
 yamïlké n. iii.// lychee, from yami + u + olkahi (heavenly sweetness).
 yamïlokésyim n. iii. // lychee tree.
 yari v. // to let someone do something to the speaker, to give up and allow something to befall someone.
+yaréitasy n. i. //a driver, pilot.
 yawai n. iii. // egg.
 yelo n. iii. // forest, jungle.
 yere n. i. // mouth.
@@ -951,7 +996,7 @@ yure n. iii. // duty, also pronounced yïre.
 yusa n. i. // eye.
 
 Zz
-zaqa n. iii. // electricity.
+zaqa n. iii. // (alt. zak before k) electricity.
 zaqahanya n. iii. // movie, film.
 zaqaisyï n. iii. // telephone.
 zeri n. iii. // sunflower.
@@ -970,3 +1015,4 @@ zyeté v. // to exercise, to do sports.
 ‘iji v. // to pull apart.
 ‘uvá n. iii. // boundary, limit, extent.
 ‘uvásri n. iii. // value.
+
